@@ -43,6 +43,7 @@ ol{
 .menu a{
     text-decoration: none;
     color: black;
+}
 =======
 h1{
     font-size: 48px;
@@ -58,8 +59,7 @@ h1{
 .image-container{
     display: flex;
     justify-content: center;
->>>>>>> contenido
-=======
+}
 .footer{
     color: white;
     display: flex;
@@ -71,5 +71,4 @@ h1{
     width: 100%;
     height: 70px;
     display: block;
->>>>>>> footer
 }
