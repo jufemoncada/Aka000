@@ -1,0 +1,15 @@
+h1{
+    font-size: 48px;
+    font-family: 'Noto Serif KR', serif;
+    text-align: center;
+    font-weight: normal;
+}
+.hero{
+    width: 800px;
+    margin: auto;
+    display: block;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+}
