@@ -16,7 +16,8 @@ body{
 }
 .logo span{
     margin-left: 20px ;
-    font-family: 'Special Elite', cursive;
+    /* font-family: 'Special Elite', cursive; */
+    font-family: '1942 report';
     font-size: 1.3em;
     letter-spacing: 4px;
 }
